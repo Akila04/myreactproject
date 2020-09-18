@@ -1,0 +1,14 @@
+{
+  "songs_list": "Artist List",
+  "artist_search": "Songs Search",
+  "respo_search_default": "Search for a artist by entering it's name in the search box",
+  "get_artist_details": "Get details of artist",
+  "search_query": "Search query: {repoName}",
+  "matching_songs": "Total number of matching songs: {totalCount}",
+  "something_went_wrong": "Sorry. Something went wrong! Please try again in sometime.",
+  "stories": "Go to Storybook",
+  "artist_name": "Artist Name: {artistName}",
+  "track_name": "Track name: {trackName}",
+  "collection_name": "Collection Name: {collectionName}",
+  "wednesday_solutions": "Wednesday Solutions"
+}
